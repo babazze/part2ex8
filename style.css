@@ -1,0 +1,71 @@
+html, body {height:100%}
+#carre1 {
+    position: absolute;
+    left: 0;
+    height:10%;
+    width: 80%;
+    background: #58d68d;
+}
+#carre2 {
+    position: absolute;
+    right: 0;
+    height:10%;
+    width: 20%;
+    background: #5499c7;
+}
+#carre3 {
+    position: absolute;
+    left: 0;
+    top:11%;
+    height: 22%;
+    width: 34%;
+    background: #e74c3c;
+}
+#carre4 {
+    position: absolute;
+    left: 33%;
+    top:11%;
+    height: 11%;
+    width: 34%;
+    background: #f39c12;
+}
+#carre5 {
+    position: absolute;
+    left: 33%;
+    top:22%;
+    height: 11%;
+    width: 23%;
+    background: #f1c40f;
+}
+#carre6 {
+    position: absolute;
+    right: 0;
+    top:11%;
+    height: 11%;
+    width: 34%;
+    background: #a9cce3;
+}
+#carre7 {
+    position: absolute;
+    right: 23%;
+    top:22%;
+    height: 11%;
+    width: 23%;
+    background: #45b39d;
+}
+#carre8 {
+    position: absolute;
+    right:0;
+    top:22%;
+    height: 11%;
+    width: 23%;
+    background: #d35400;
+}
+#carre9 {
+    position: absolute;
+    left: 0;
+    top: 33%;
+    height: 33%;
+    width: 100%;
+    background: #34495e;
+}
